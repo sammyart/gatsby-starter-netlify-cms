@@ -12,7 +12,7 @@ tags:
   - garbage
   - deleteme
 ---
-![amazing haskell tricks](static/img/jumbotron.jpg)
+![amazing haskell tricks](/img/jumbotron.jpg)
 
 Let's get this ball rolling downhill and hope it never raises its ugly head again.
 
