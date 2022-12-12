@@ -12,6 +12,10 @@ tags:
   - garbage
   - deleteme
 ---
-## How It's Done, Son
+![amazing haskell tricks](static/img/jumbotron.jpg)
 
 Let's get this ball rolling downhill and hope it never raises its ugly head again.
+
+## Wow! What a Grind!
+
+There is no way I'm going to place one foot in front of the other.
