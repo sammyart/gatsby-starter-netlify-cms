@@ -12,8 +12,6 @@ tags:
   - garbage
   - deleteme
 ---
-![amazing haskell tricks](/img/jumbotron.jpg "Pour faster! I'm sleeping, here!")
-
 Let's get this ball rolling downhill and hope it never raises its ugly head again.
 
 ## Wow! What a Grind!
